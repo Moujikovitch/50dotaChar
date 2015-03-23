@@ -1,0 +1,249 @@
+body, html{
+	margin:0;
+	padding:0;
+	background-color:#140A00;
+}
+
+header {
+	height:150px;
+	width:100%;
+	background-color:#211000;
+	position:absolute;
+	top:0px;
+	position:fixed;
+	z-index:10;
+}
+#titre {
+	font-size:36px;
+	font-family: arial;
+	font-weight: bold;
+	color:white;
+	text-align: center;
+	position:relative;
+	bottom:165px;
+	z-index: 20px
+}
+#soustitre {
+	font-size:18px;
+	color:#C2BE8F;
+	position:relative;
+	bottom:25px;
+	font-weight: lighter;
+}
+#logo{
+	height:180px;
+}
+footer {
+	height:50px;
+	width:100%;
+	background-color:#211000;
+	position:absolute;
+	bottom:0px;
+	position:fixed;
+	z-index:10;
+}
+#corp {
+	margin-top:200px;
+	margin-bottom:100px;
+}
+
+.ligne {
+	width:980px;
+	height:100px;
+	margin:auto;
+}
+.ligne:hover {
+	transition:3s;
+	height:200px;
+}
+.stats {
+	color:#C2BE8F;
+	float:bottom;
+	font-size:12px;
+	font-family: arial;
+	width:100%;
+	white-space: normal;
+	text-align: bottom;
+	position:absolute;
+	bottom:0;
+	opacity:0;
+}
+.nomh {
+	font-size:18px;
+	font-weight: bold;
+	color:white;
+}
+.stats:hover {
+	transition:2s;
+	opacity:1;
+	padding-top:600px;
+}
+.photo {
+	height:80px;
+	width:19%;
+	float:left;
+	margin-left:1%;
+	opacity:0.5;
+	position:relative;
+	z-index:0px;
+	background-size:100% 80px;
+	background-repeat: no-repeat;
+	border-radius:5px;
+}
+.photo:hover{
+	transition:0.5s;
+	margin-left:1%;
+	opacity:1;
+	height:90%;
+}
+
+#photo01 {
+background-image:url(./media/01.jpg);
+}
+#photo02 {
+background-image:url(./media/02.jpg);
+}
+#photo03 {
+background-image:url(./media/03.jpg);
+}
+#photo04 {
+background-image:url(./media/04.jpg);
+}
+#photo05 {
+background-image:url(./media/05.jpg);
+}
+#photo06 {
+background-image:url(./media/06.jpg);
+}
+#photo07 {
+background-image:url(./media/07.jpg);
+}
+#photo08 {
+background-image:url(./media/08.jpg);
+}
+#photo09 {
+background-image:url(./media/09.jpg);
+}
+#photo10 {
+background-image:url(./media/10.jpg);
+}
+#photo11 {
+background-image:url(./media/11.jpg);
+}
+#photo12 {
+background-image:url(./media/12.jpg);
+}
+#photo13 {
+background-image:url(./media/13.jpg);
+}
+#photo14 {
+background-image:url(./media/14.jpg);
+}
+#photo15 {
+background-image:url(./media/15.jpg);
+}
+#photo16 {
+background-image:url(./media/16.jpg);
+}
+#photo17 {
+background-image:url(./media/17.jpg);
+}
+#photo18 {
+background-image:url(./media/18.jpg);
+}
+#photo19 {
+background-image:url(./media/19.jpg);
+}
+#photo20 {
+background-image:url(./media/20.jpg);
+}
+#photo21 {
+background-image:url(./media/21.jpg);
+}
+#photo22 {
+background-image:url(./media/22.jpg);
+}
+#photo23 {
+background-image:url(./media/23.jpg);
+}
+#photo24 {
+background-image:url(./media/24.jpg);
+}
+#photo25 {
+background-image:url(./media/25.jpg);
+}
+#photo26 {
+background-image:url(./media/26.jpg);
+}
+#photo27 {
+background-image:url(./media/27.jpg);
+}
+#photo28 {
+background-image:url(./media/28.jpg);
+}
+#photo29 {
+background-image:url(./media/29.jpg);
+}
+#photo30 {
+background-image:url(./media/30.jpg);
+}
+#photo31 {
+background-image:url(./media/31.jpg);
+}
+#photo32 {
+background-image:url(./media/32.jpg);
+}
+#photo33 {
+background-image:url(./media/33.jpg);
+}
+#photo34 {
+background-image:url(./media/34.jpg);
+}
+#photo35 {
+background-image:url(./media/35.jpg);
+}
+#photo36 {
+background-image:url(./media/36.jpg);
+}
+#photo37 {
+background-image:url(./media/37.jpg);
+}
+#photo38 {
+background-image:url(./media/38.jpg);
+}
+#photo39 {
+background-image:url(./media/39.jpg);
+}
+#photo40 {
+background-image:url(./media/40.jpg);
+}
+#photo41 {
+background-image:url(./media/41.jpg);
+}
+#photo42 {
+background-image:url(./media/42.jpg);
+}
+#photo43 {
+background-image:url(./media/43.jpg);
+}
+#photo44 {
+background-image:url(./media/44.jpg);
+}
+#photo45 {
+background-image:url(./media/45.jpg);
+}
+#photo46 {
+background-image:url(./media/46.jpg);
+}
+#photo47 {
+background-image:url(./media/47.jpg);
+}
+#photo48 {
+background-image:url(./media/48.jpg);
+}
+#photo49 {
+background-image:url(./media/49.jpg);
+}
+#photo50 {
+background-image:url(./media/50.jpg);
+}
